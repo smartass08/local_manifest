@@ -2,20 +2,20 @@
 
 <manifest>
 <!-- Device Tree -->
-<project name="smartass08/android_device_samsung_j7eltexx" path="device/samsung/j7eltexx" remote="github" revision="master" />
-<project name="smartass08/android_device_samsung_exynos7580-common" path="device/samsung/exynos7580-common" remote="github" revision="master" />
+<project name="smartass08/Exynos7580-android_device_samsung_j7eltexx" path="device/samsung/j7eltexx" remote="github" revision="master" />
+<project name="smartass08/Exynos7580-android_device_samsung_exynos7580-common" path="device/samsung/exynos7580-common" remote="github" revision="master" />
 <!-- Vendor Source -->
 <project name="smartass08/android_vendor_samsung_exynos7580-common" path="vendor/samsung/exynos7580-common" remote="github" revision="los-14.1" />
-<project name="smartass08/android_vendor_samsung_j7eltexx" path="vendor/samsung/j7eltexx" remote="github" revision="master" />
+<project name="smartass08/Exynos7580-android_vendor_samsung_j7eltexx" path="vendor/samsung/j7eltexx" remote="github" revision="master" />
 
 <!-- Hardware Sources -->
 <project name="TeamNexus/android_hardware_samsung" path="hardware/samsung" remote="github" revision="nx-7.1" />
-<project name="Exynos7580/android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi-cm/exynos7580" remote="github" revision="cm-14.1" />
+<project name="Exynos7580/android_hardware_samsung_slsi-cm_exynos7580" path="hardware/samsung_slsi-cm/exynos7580" remote="github" revision="cm-14.1" />
 <project name="Exynos7580/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1" />
 <project name="TeamNexus/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="nx-7.1" />
 <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
 <!-- Kernel Source -->
-<project name="smartass08/android_kernel_samsung_exynos7580-common" path="kernel/samsung/exynos7580-common" remote="github" revision="master" />
+<project name="smartass08/Exynos7580-android_kernel_samsung_exynos7580-common" path="kernel/samsung/exynos7580-common" remote="github" revision="master" />
 <project name="smartass08/android_kernel_samsung_j7elte" path="kernel/samsung/j7elte" remote="github" revision="master" />
 
 <!-- Other stuffs -->
