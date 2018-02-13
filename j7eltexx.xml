@@ -19,7 +19,7 @@
 <project name="smartass08/android_kernel_samsung_j7elte" path="kernel/samsung/j7elte" remote="github" revision="los-15.1" />
 
 <!-- Other stuffs -->
-<project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="lineage-15.1" />
+<project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
 <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="lineage-15.1" />
 <project name="LineageOS/android_packages_resources_devicesettings" path="packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
 </manifest>
